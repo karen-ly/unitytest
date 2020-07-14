@@ -8,10 +8,10 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 5589938431701551683}
-  - component: {fileID: 5868399540634852881}
-  - component: {fileID: 1532760348950448019}
-  - component: {fileID: 5235637602057997370}
+  - component: {fileID: 173660098607434957}
+  - component: {fileID: 790350443691741762}
+  - component: {fileID: 4704901853865690638}
+  - component: {fileID: 4855866526213396812}
   m_Layer: 0
   m_Name: Tree
   m_TagString: Untagged
@@ -25,10 +25,10 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5269841893723759398}
+  m_GameObject: {fileID: 9169220601161332830}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2.1848977, y: 0.7522525, z: 0.7107405}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -56,7 +56,7 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5269841893723759398}
+  m_GameObject: {fileID: 9169220601161332830}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -155,15 +155,15 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpSpecMap:
-        m_Texture: {fileID: 2800000, guid: 2e2944ee63dfd497299c3c464396ec9f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 40bad8882f2c84f66898313bfca78c24, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: aaed8a23adafd43a4a6a204448d251c4, type: 3}
+        m_Texture: {fileID: 2800000, guid: bbdfd7ee29d0d47e4a1c6c562e4006b1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TranslucencyMap:
-        m_Texture: {fileID: 2800000, guid: ded384cb5c63941fba023be88464cf37, type: 3}
+        m_Texture: {fileID: 2800000, guid: fef199755b6384526931504894d373e6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
